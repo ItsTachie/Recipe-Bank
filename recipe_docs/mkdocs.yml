@@ -1,0 +1,48 @@
+site_name: My Recipe Bank
+theme:
+  name: readthedocs
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Staples & Classics:
+      - Sadza & Relishes: 
+          - Overview: staples/sadza/Overview.md
+          - Sadza neMukaka: staples/sadza/nemukaka.md
+          - Sadza neVeggie neNyama: staples/sadza/neveggie_nenyama.md
+      - Pasta:
+          - Overview: staples/pasta/Overview.md
+          - Bolognese: staples/pasta/bolognese.md
+          - Mushroom Alfredo: staples/pasta/mushroom_alfredo.md
+          - Carbonara: staples/pasta/carbonara.md
+          - Mac and Cheese: staples/pasta/mac_and_cheese.md
+      - Rice:
+          - Overview: staples/rice/Overview.md
+          - Rice Beef Bowl (with Egg): staples/rice/beef_bowl.md
+          - Zimbabwean Rice & Tomato Soup: staples/rice/zim_tomato_soup.md
+          - Fried Rice: staples/rice/fried_rice.md
+          - Chicken and Rice: staples/rice/chicken_rice.md
+      - Potatoes:
+          - Overview: staples/potatoes/Overview.md
+          - Greek Lemon Potatoes: staples/potatoes/greek_lemon.md
+          
+  - Curries & Stews:
+      - Overview: stews/Overview.md
+      - Beef and Potato Stew: stews/beef_potato.md
+      - Butter Chicken: stews/butter_chicken.md
+
+  - Global Flavors:
+      - Chinese:
+          - Overview: global/chinese/Overview.md
+          - Beef and Broccoli: global/chinese/beef_broccoli.md
+      - Middle Eastern:
+          - Overview: global/middle_eastern/Overview.md
+          - Chicken Souvlaki: global/middle_eastern/souvlaki.md
+          - Homemade Tzatziki: global/middle_eastern/tzatziki.md
+      - European:
+          - Overview: global/european/Overview.md
+          - Hungarian Goulash: global/european/goulash.md
+          
