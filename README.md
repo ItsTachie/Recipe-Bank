@@ -2,6 +2,8 @@
 
 A personal collection of recipes documented in Markdown and deployed as a static website. This project serves as a digital cookbook, organized to handle everything from daily staples (Sadza, Rice, Pasta) to global cuisines (Middle Eastern, European, Chinese).
 
+[View the site](https://itstachie.github.io/Recipe-Bank/)
+
 ## Tech Stack
 
 * **Authoring:** Obsidian
@@ -21,6 +23,7 @@ recipe-book/
     ├── staples/            # Sadza, rice, pasta, and potatoes
     ├── stews/              # Curries and stews
     ├── global/             # Regional cuisines (Chinese, Middle Eastern, etc.)
+    ├── stylesheets/        # custom css styling 
 
 ```
 
@@ -47,7 +50,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 1. **Install dependencies:**
 
 ```bash
-pip install mkdocs
+pip install -r requirements.txt
 
 ```
 
