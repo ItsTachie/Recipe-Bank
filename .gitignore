@@ -13,6 +13,8 @@ uv.lock
 # Virtual environments
 .venv
 
+Todo
+
 **/site/
 **/.obsidian/
 **/templates/

@@ -16,4 +16,4 @@ description: Category overview and general cooking tips.
 - **Al Dente:** Cook the pasta 1-2 minutes _less_ than the box instructions. Drain it, put it directly into your simmering sauce, and let it finish cooking there so it absorbs the flavor.
 ### 📜 Recipes in this Category
 
-- 
+- [Creamy Tuscan Pasta](creamy_tuscan_pasta.md)

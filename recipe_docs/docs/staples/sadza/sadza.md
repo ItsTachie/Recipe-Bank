@@ -1,7 +1,6 @@
 ---
-title:
-  "{ title }":
-cuisine: zimbabwean
+title: Basic Sadza
+cuisine: Zimbabwean
 prep_time: "2"
 cook_time: "35"
 servings: "3"
@@ -20,8 +19,8 @@ tags:
 
 **Main**
 
-* [ ] 1 Mug | Mealie meal (plus extra for folding)
-* [ ] 4 Cups | Boiling water
+* [ ] Mealie meal | 1 Mug (plus extra for folding) 
+* [ ] Boiling water | 4 Cups  
 
 ---
 
