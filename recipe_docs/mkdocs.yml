@@ -1,6 +1,7 @@
 site_name: Recipe Bank
 site_author: Tatenda Tachivona
 site_description: My own curated digital cookbook
+site_url: https://itstachie.github.io/Recipe-Bank/
 repo_url: https://github.com/ItsTachie/Recipe-Bank
 repo_name: Recipe-Bank
 edit_uri: ""
@@ -9,7 +10,7 @@ extra_css:
 
 
 theme:
-  name: readthedocs
+  name: material
   features:
     - search.suggest
     - search.highlight
