@@ -3,23 +3,17 @@ title: overview
 description: Category overview and general cooking tips.
 ---
 
-# 📖 overview
+# 📖 Overview
 
-> *A brief summary of this category. (e.g., "Pasta is my go-to for busy weeknights. Here is a collection of quick, creamy, and tomato-based pasta dishes.")*
+> A good go to fr. 
 
 ---
 
 ### 💡 General Tips & Ratios
-*(Use this section for rules of thumb that apply to all recipes in this folder, so you don't have to rewrite them every time!)*
 
-* **Golden Rule 1:** (e.g., Always salt your pasta water until it tastes like the sea.)
-* **Golden Rule 2:** (e.g., Reserve half a cup of pasta water to thicken your sauces.)
-* **Basic Ratio:** (e.g., 1 cup of rice to 2 cups of water.)
-
----
+- **Wash Your Rice:** Always rinse raw rice under cold water 3-4 times until the water runs clear. This removes surface starch and prevents it from becoming gummy and sticky.
+- **The Golden Ratio:** For standard long-grain white rice, use a **1 to 1.5 ratio** (1 cup of rice to 2 cups of water) or use the finger knuckle trick.
+- **Patience Pays Off:** When the cooking time is up, turn off the heat but _do not open the lid_. Let it sit and steam in its own residual heat for 10 minutes before fluffing with a fork.
+- **Fried Rice Secret:** Never use freshly cooked, hot rice for fried rice. It will turn to mush. Always use day-old, cold rice straight from the fridge.
 
 ### 📜 Recipes in this Category
-*(Keep a running list of links to the recipes in this folder here. Since these are in the same folder, you just need the file name!)*
-
-* [Recipe Name 1](recipe_file_1.md)
-* [Recipe Name 2](recipe_file_2.md)

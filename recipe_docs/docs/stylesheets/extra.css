@@ -1,0 +1,6 @@
+/* docs/stylesheets/extra.css */
+
+.wy-nav-content {
+    max-width: none !important;
+    max-height: none !important; 
+}

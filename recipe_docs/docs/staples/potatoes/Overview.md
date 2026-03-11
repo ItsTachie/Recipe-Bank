@@ -3,23 +3,17 @@ title: overview
 description: Category overview and general cooking tips.
 ---
 
-# 📖 overview
+# 📖 Overview
 
-> *A brief summary of this category. (e.g., "Pasta is my go-to for busy weeknights. Here is a collection of quick, creamy, and tomato-based pasta dishes.")*
+>  The ultimate comfort carb. Very versatile and keep well. These things would survive an apocalypse
 
 ---
 
 ### 💡 General Tips & Ratios
-*(Use this section for rules of thumb that apply to all recipes in this folder, so you don't have to rewrite them every time!)*
 
-* **Golden Rule 1:** (e.g., Always salt your pasta water until it tastes like the sea.)
-* **Golden Rule 2:** (e.g., Reserve half a cup of pasta water to thicken your sauces.)
-* **Basic Ratio:** (e.g., 1 cup of rice to 2 cups of water.)
-
----
-
+- **Know Your Spuds:** * Use **Starchy potatoes** (like Russets/Baking potatoes) for fluffy mashed potatoes or fries.
+    - Use **Waxy potatoes** (like red potatoes or baby potatoes) for stews and curries, as they won't disintegrate into mush when boiled.    
+- **The Crispy Secret:** For the crispiest roasted potatoes, parboil them in heavily salted water with a pinch of baking soda for 10 minutes first. Drain them, rough them up by shaking them in the pot, and then roast them in hot oil.
 ### 📜 Recipes in this Category
-*(Keep a running list of links to the recipes in this folder here. Since these are in the same folder, you just need the file name!)*
 
-* [Recipe Name 1](recipe_file_1.md)
-* [Recipe Name 2](recipe_file_2.md)
+- 

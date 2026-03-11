@@ -1,25 +1,19 @@
 ---
-title: overview
-description: Category overview and general cooking tips.
+title: Sadza Overview
+description: These are dishes relating to sadza and the different relishes you can have with it
 ---
 
-# 📖 overview
+# 📖 Overview
 
-> *A brief summary of this category. (e.g., "Pasta is my go-to for busy weeknights. Here is a collection of quick, creamy, and tomato-based pasta dishes.")*
+> Thick comforting and filling.
 
 ---
-
 ### 💡 General Tips & Ratios
-*(Use this section for rules of thumb that apply to all recipes in this folder, so you don't have to rewrite them every time!)*
 
-* **Golden Rule 1:** (e.g., Always salt your pasta water until it tastes like the sea.)
-* **Golden Rule 2:** (e.g., Reserve half a cup of pasta water to thicken your sauces.)
-* **Basic Ratio:** (e.g., 1 cup of rice to 2 cups of water.)
-
----
-
+- **The Cold Water Start:** Always mix your initial meal with a little cold water to form a smooth paste _before_ adding the boiling water. This guarantees you won't get lumps.    
+- **Let it Bubble (Kukwata):** Don't rush the porridge stage. Let it simmer and bubble away for at least 15-20 minutes. Cooking the meal thoroughly at this stage is the secret to great-tasting sadza.
+- **Kumona Sadza:** When folding in the final meal to thicken it , use a sturdy wooden spoon and press against the sides of the pot to work out any dry pockets.
 ### 📜 Recipes in this Category
-*(Keep a running list of links to the recipes in this folder here. Since these are in the same folder, you just need the file name!)*
 
-* [Recipe Name 1](recipe_file_1.md)
-* [Recipe Name 2](recipe_file_2.md)
+- [Sadza](sadza.md)
+

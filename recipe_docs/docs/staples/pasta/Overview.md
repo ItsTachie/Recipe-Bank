@@ -3,23 +3,17 @@ title: overview
 description: Category overview and general cooking tips.
 ---
 
-# 📖 overview
+# 📖 Overview
 
-> *A brief summary of this category. (e.g., "Pasta is my go-to for busy weeknights. Here is a collection of quick, creamy, and tomato-based pasta dishes.")*
+> These dishes are rich and hearty. Usually a quick prep and cooking time 
 
 ---
 
 ### 💡 General Tips & Ratios
-*(Use this section for rules of thumb that apply to all recipes in this folder, so you don't have to rewrite them every time!)*
 
-* **Golden Rule 1:** (e.g., Always salt your pasta water until it tastes like the sea.)
-* **Golden Rule 2:** (e.g., Reserve half a cup of pasta water to thicken your sauces.)
-* **Basic Ratio:** (e.g., 1 cup of rice to 2 cups of water.)
-
----
-
+- **The Sea Water Rule:** Always salt your pasta water heavily until it tastes like the sea. This is your only chance to season the actual noodle.
+- **Liquid Gold:** Always reserve about ½ cup of the starchy pasta water before draining. Splashing a little into your sauce at the end binds the fat and water together, creating a glossy, restaurant-quality sauce.
+- **Al Dente:** Cook the pasta 1-2 minutes _less_ than the box instructions. Drain it, put it directly into your simmering sauce, and let it finish cooking there so it absorbs the flavor.
 ### 📜 Recipes in this Category
-*(Keep a running list of links to the recipes in this folder here. Since these are in the same folder, you just need the file name!)*
 
-* [Recipe Name 1](recipe_file_1.md)
-* [Recipe Name 2](recipe_file_2.md)
+- 
