@@ -19,8 +19,8 @@ tags:
 
 **Main**
 
-* [ ] Mealie meal | 1 Mug (plus extra for folding) 
-* [ ] Boiling water | 4 Cups  
+- Mealie meal | 1 Mug (plus extra for folding) 
+- Boiling water | 4 Cups  
 
 ---
 

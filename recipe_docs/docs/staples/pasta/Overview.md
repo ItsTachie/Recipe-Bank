@@ -17,3 +17,8 @@ description: Category overview and general cooking tips.
 ### 📜 Recipes in this Category
 
 - [Creamy Tuscan Pasta](creamy_tuscan_pasta.md)
+- [Fettuccine Alfredo](fettuccine_alfredo.md)
+- [Mushroom Alfredo](mushroom_alfredo.md)
+- [Marinara Pasta](marinara_pasta.md)
+- [Bolognese](spaghetti_bolognese.md)
+- [Carbonara](carbonara.md)

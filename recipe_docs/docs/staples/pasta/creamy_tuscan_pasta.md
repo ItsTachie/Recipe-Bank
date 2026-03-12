@@ -20,25 +20,25 @@ tags:
 
 **Main**
 
-* [ ] Spaghetti | 3/4 packet
-* [ ] Chicken Thighs | 450g
-* [ ] Butter | 1 tbsp
-* [ ] Garlic | 3 cloves
-* [ ] Tomato Puree | 1 tbsp
-* [ ] Chicken Stock | 1/3 cup
-* [ ] Heavy Cream | 2/3 cup
-* [ ] Sun Dried Tomatoes | 90g
-* [ ] Parmesan | 90g
-* [ ] Baby Spinach | 2 tbsp
-* [ ] Fresh Basil | 2 handfuls
+- Spaghetti | 3/4 packet
+- Chicken Thighs | 450g
+- Butter | 1 tbsp
+- Garlic | 3 cloves
+- Tomato Puree | 1 tbsp
+- Chicken Stock | 1/3 cup
+- Heavy Cream | 2/3 cup
+- Sun Dried Tomatoes | 90g
+- Parmesan | 90g
+- Baby Spinach | 2 tbsp
+- Fresh Basil | 2 handfuls
 
 **Sauce / Spices**
 
-* [ ] Smoked Paprika 
-* [ ] Oregano
-* [ ] Onion Powder
-* [ ] Salt
-* [ ] Black Pepper
+- Smoked Paprika 
+- Oregano
+- Onion Powder
+- Salt
+- Black Pepper
 
 ---
 

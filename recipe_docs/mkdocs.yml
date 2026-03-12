@@ -5,8 +5,6 @@ site_url: https://itstachie.github.io/Recipe-Bank/
 repo_url: https://github.com/ItsTachie/Recipe-Bank
 repo_name: Recipe-Bank
 edit_uri: ""
-extra_css:
-  - stylesheets/extra.css
 
 
 theme:
@@ -16,10 +14,6 @@ theme:
     - search.highlight
     - navigation.tabs
 
-
-extra_css:
-  - stylesheets/extra.css
-
 nav:
   - Home: index.md
 
@@ -28,9 +22,14 @@ nav:
           - Overview: staples/sadza/Overview.md
           - Basic Sadza: staples/sadza/sadza.md
           - Sadza nemukaka: staples/sadza/nemukaka.md
+          - Sadza nemaveggie nenyama: staples/sadza/nemaveggie_nenyama.md
       - Pasta:
           - Overview: staples/pasta/Overview.md
           - Creamy Tuscan Pasta: staples/pasta/creamy_tuscan_pasta.md
+          - Marinara Pasta: staples/pasta/marinara_pasta.md
+          - Bolognese: staples/pasta/spaghetti_bolognese.md
+          - Alfredo: staples/pasta/fettuccine_alfredo.md
+          - Mushroom Alfredo: staples/pasta/mushroom_alfredo.md
       - Rice:
           - Overview: staples/rice/Overview.md
       - Potatoes:
