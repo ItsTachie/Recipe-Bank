@@ -8,8 +8,18 @@ A personal collection of recipes documented in Markdown and deployed as a static
 
 * **Authoring:** Obsidian
 * **Static Site Generator:** MkDocs
-* **Theme:** ReadTheDocs
 * **Hosting:** GitHub Pages
+
+## Screenshots
+
+Home page
+![Practice Demo Y-Shapes](screenshots/recipe_bank_home.png)
+
+Recipe
+![Practice Demo Completed](screenshots/recipe_bank_recipe.png)
+
+Searching
+![Practice Demo Completed](screenshots/recipe_bank_search.png)
 
 ## Project Structure
 
@@ -23,7 +33,6 @@ recipe-book/
     ├── staples/            # Sadza, rice, pasta, and potatoes
     ├── stews/              # Curries and stews
     ├── global/             # Regional cuisines (Chinese, Middle Eastern, etc.)
-    ├── stylesheets/        # custom css styling 
 
 ```
 
@@ -57,7 +66,7 @@ pip install -r requirements.txt
 1. **Run the development server:**
 
 ```bash
-mkdocs serve
+mkdocs serve # make sure to run this command when in same folder as mkdocs.yml
 
 ```
 
@@ -79,8 +88,6 @@ This site is hosted on GitHub Pages. To build the static HTML and deploy it manu
 ```bash
 mkdocs gh-deploy
 
+# This command builds the site and automatically pushes the compiled HTML to the `gh-pages` branch.
+
 ```
-
-This command builds the site and automatically pushes the compiled HTML to the `gh-pages` branch.
-
----
