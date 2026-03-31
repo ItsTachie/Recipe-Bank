@@ -30,8 +30,10 @@ nav:
           - Bolognese: staples/pasta/spaghetti_bolognese.md
           - Alfredo: staples/pasta/fettuccine_alfredo.md
           - Mushroom Alfredo: staples/pasta/mushroom_alfredo.md
+          - Mac & Cheese: staples/pasta/mac_n_cheese.md
       - Rice:
           - Overview: staples/rice/Overview.md
+          - Egg Fried Rice: staples/rice/egg_fried_rice.md
       - Potatoes:
           - Overview: staples/potatoes/Overview.md
           

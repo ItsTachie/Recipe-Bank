@@ -17,3 +17,5 @@ description: Category overview and general cooking tips.
 - **Fried Rice Secret:** Never use freshly cooked, hot rice for fried rice. It will turn to mush. Always use day-old, cold rice straight from the fridge.
 
 ### 📜 Recipes in this Category
+
+- [Egg fried rice](egg_fried_rice)
