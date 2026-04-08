@@ -31,6 +31,7 @@ nav:
           - Alfredo: staples/pasta/fettuccine_alfredo.md
           - Mushroom Alfredo: staples/pasta/mushroom_alfredo.md
           - Mac & Cheese: staples/pasta/mac_n_cheese.md
+          - Carbonara: staples/pasta/carbonara.md
       - Rice:
           - Standalones:
               - Overview: staples/rice/Overview.md
@@ -54,12 +55,11 @@ nav:
           
   - Curries & Stews:
       - Overview: stews/Overview.md
+      - Butter Chicken: stews/butter_chicken.md
 
   - Global Flavors:
       - Chinese:
           - Overview: global/chinese/Overview.md
-      - Middle Eastern:
-          - Overview: global/middle_eastern/Overview.md
       - European:
           - Overview: global/european/Overview.md
 
