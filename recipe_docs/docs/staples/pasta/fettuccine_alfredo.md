@@ -10,7 +10,7 @@ tags:
 
 # Fettuccine Alfredo
 
-> *Fettuccine Alfredo Rich, creamy, and indulgent. A simple yet luxurious Italian-American classic.*
+> *Rich, creamy, and indulgent. A simple yet luxurious Italian-American classic.*
 
 **Prep time:** `5 mins` | **Cook time:** `15 mins` | **Servings:** `3`
 

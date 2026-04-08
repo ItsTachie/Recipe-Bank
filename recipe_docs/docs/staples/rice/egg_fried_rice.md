@@ -8,7 +8,7 @@ tags:
   - recipe
 ---
 
-# Egg fried rice 
+# Egg Fried Rice
 
 > *One of the fastest, most satisfying meals you can make.*
 

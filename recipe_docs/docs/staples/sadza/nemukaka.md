@@ -21,7 +21,7 @@ tags:
 **Main**
 
  - Sour milk (plain kefir) | 1 liter
- - Brown sugar | 1tbsp
+ - Brown sugar | 1 tbsp
 
 
 ---

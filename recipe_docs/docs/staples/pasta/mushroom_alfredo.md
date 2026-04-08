@@ -10,7 +10,7 @@ tags:
 
 # Mushroom Alfredo
 
-> Mushroom Alfredo An earthy, savory twist on the classic Alfredo, loaded with golden-brown mushrooms.
+> *An earthy, savory twist on the classic Alfredo, loaded with golden-brown mushrooms.*
 
 **Prep time:** `10 mins` | **Cook time:** `20 mins` | **Servings:** `3`
 

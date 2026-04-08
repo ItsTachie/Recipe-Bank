@@ -21,5 +21,4 @@ description: Category overview and general cooking tips.
 ### 📜 Recipes in this Category
 *(Keep a running list of links to the recipes in this folder here. Since these are in the same folder, you just need the file name!)*
 
-* [Recipe Name 1](recipe_file_1.md)
-* [Recipe Name 2](recipe_file_2.md)
+*No recipes added yet.*

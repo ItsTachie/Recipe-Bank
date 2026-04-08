@@ -8,7 +8,7 @@ tags:
   - recipe
 ---
 
-# Bolognese
+# Spaghetti Bolognese
 
 > *A deeply savory, slow-simmered Italian meat sauce served over long pasta*
 

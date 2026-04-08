@@ -10,7 +10,7 @@ tags:
 
 # Sadza neNyama
 
-> *A quick note about this dish. Why is it good? What does it pair perfectly with?*
+> *A hearty Zimbabwean classic — tender meat in a rich tomato broth served with sadza and greens for the ultimate home-cooked meal.*
 
 **Prep time:** `10 mins` | **Cook time:** `40 mins` | **Servings:** `3`
 
@@ -34,7 +34,7 @@ tags:
 - Salt
 - Pepper
 - Paprika
-- Onion power
+- Onion powder
 - Garlic powder
 
 ---

@@ -19,11 +19,11 @@ tags:
 
 **Main**
 
--  Elbow macaroni 
+- Elbow macaroni | 300g
 -  Cheddar cheese | 2 cups
 - Milk | 2 cups
-- Flour | 2tbsp
-- Butter | 2tbsp
+- Flour | 2 tbsp
+- Butter | 2 tbsp
 - Chicken thighs | 450g
 
 **Sauce / Spices**

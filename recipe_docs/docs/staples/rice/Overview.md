@@ -18,4 +18,4 @@ description: Category overview and general cooking tips.
 
 ### 📜 Recipes in this Category
 
-- [Egg fried rice](egg_fried_rice)
+- [Egg Fried Rice](egg_fried_rice.md)

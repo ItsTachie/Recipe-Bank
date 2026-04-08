@@ -17,4 +17,4 @@ description: These are dishes relating to sadza and the different relishes you c
 
 - [Sadza](sadza.md)
 - [Sadza nemukaka](nemukaka.md)
-- [Sadza nemaveggie nenyama](nemaveggie_nenyama.md)
+- [Sadza nemaveggie nenyama](nenyama.md)

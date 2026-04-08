@@ -10,7 +10,7 @@ tags:
 
 # Creamy Tuscan Pasta
 
-> *A quick note about this dish. Why is it good? What does it pair perfectly with?*
+> *Sun-dried tomatoes, parmesan, and cream come together in a silky sauce that makes this pasta feel like a proper Italian restaurant dish — serve it with garlic bread for the full experience.*
 
 **Prep time:** `15 mins` | **Cook time:** `20 mins` | **Servings:** `3`
 
@@ -61,5 +61,5 @@ tags:
 ## 💡 Notes & Variations
 
 * **Storage:** 2 days in the fridge?
-* **Substitutions:** Don't have basil or olive? Its not that deep, skip the basil and use any oil you have
+* **Substitutions:** Don't have basil or olive? It's not that deep, skip the basil and use any oil you have
 * **For the stock:** I use stock cubes and dissolve it in some boiling water

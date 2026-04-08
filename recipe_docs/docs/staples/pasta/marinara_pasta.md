@@ -10,7 +10,7 @@ tags:
 
 # Marinara Pasta
 
-> *Pasta with Tomato Sauce A classic, comforting dish of pasta tossed in a rich, garlic-infused*
+> *A classic, comforting dish of pasta tossed in a rich, garlic-infused tomato sauce — simple enough for a weeknight but satisfying enough for any occasion.*
 
 **Prep time:** `5 mins` | **Cook time:** `20 mins` | **Servings:** `3`
 

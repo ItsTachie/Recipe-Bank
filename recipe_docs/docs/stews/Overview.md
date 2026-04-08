@@ -17,5 +17,4 @@ description: Category overview and general cooking tips.
 
 ### 📜 Recipes in this Category
 
-- [Beef and Potato Stew](beef_potato.md "null")
-- [Butter Chicken](butter_chicken.md "null")
+- [Butter Chicken](butter_chicken.md)

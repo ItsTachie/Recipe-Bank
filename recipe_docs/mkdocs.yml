@@ -32,8 +32,23 @@ nav:
           - Mushroom Alfredo: staples/pasta/mushroom_alfredo.md
           - Mac & Cheese: staples/pasta/mac_n_cheese.md
       - Rice:
-          - Overview: staples/rice/Overview.md
-          - Egg Fried Rice: staples/rice/egg_fried_rice.md
+          - Standalones:
+              - Overview: staples/rice/Overview.md
+              - Egg Fried Rice: staples/rice/egg_fried_rice.md
+          - Chicken and Rice Galore: 
+              - Overview: staples/rice/chicken_and_rice_master.md
+              - Rice Components:
+                  - Red Tomato Rice: staples/rice/modules/red_rice.md
+                  - Turmeric Yellow Rice: staples/rice/modules/yellow_rice.md
+                  - Garlic Butter Rice: staples/rice/modules/garlic_rice.md
+              - Chicken Components:
+                  - Honey Garlic Chicken: staples/rice/modules/honey_garlic.md
+                  - Buffalo Chicken: staples/rice/modules/buffalo_chicken.md
+                  - BBQ Glazed Chicken: staples/rice/modules/bbq_chicken.md
+              - Side Components:
+                  - Pico de Gallo: staples/rice/modules/pico.md
+                  - Creamy Coleslaw: staples/rice/modules/coleslaw.md
+                  - Classic Potato Salad: staples/rice/modules/potato_salad.md
       - Potatoes:
           - Overview: staples/potatoes/Overview.md
           

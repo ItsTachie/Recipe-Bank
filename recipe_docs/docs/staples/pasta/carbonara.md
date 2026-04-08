@@ -31,7 +31,7 @@ tags:
 1. **Crisp**: Sauté diced pancetta in a large cold skillet over medium heat until crispy. Keep some of the oil. Turn off the heat. 
 2. **Mix**: In a bowl, whisk the egg yolks, grated cheese, and black pepper until well combined add some of that oil from before. 
 3. **Boil**: Cook pasta in boiling salted water. Reserve 1/2 cup of pasta water, then drain. 
-4. **Emulsify:** Add hot pasta to the pancetta skillet (off the heat). Quickly pour in the egg mixture, tossing vigorously. Add pasta water a splash at a time until a glossy sauce forms. Toss is the meat
+4. **Emulsify:** Add hot pasta to the pancetta skillet (off the heat). Quickly pour in the egg mixture, tossing vigorously. Add pasta water a splash at a time until a glossy sauce forms. Toss in the meat
 
 ---
 ## 💡 Notes & Variations
