@@ -19,6 +19,9 @@ Not sure what to cook tonight? Here are a few of my absolute favorites:
 
 * **[Alfredo](staples/pasta/fettuccine_alfredo.md)**
 * **[Sadza neNyama](staples/sadza/nenyama.md)**
+* **[Butter Chicken](stews/butter_chicken.md)**
+* **[Creamy Tuscan Pasta](staples/pasta/creamy_tuscan_pasta.md)**
+* **[Egg Fried Rice](staples/rice/egg_fried_rice.md)**
 
 ---
 

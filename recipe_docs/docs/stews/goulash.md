@@ -10,7 +10,7 @@ tags:
 
 # Goulash
 
-> *A hearty soup. That goes well with rice. Kinda similar to a stew you'd make for [Sadza nenyama](staples/sadza/nenyama.md) just with potatoes and carrots added to it. A dish found all around the globe going by different names, in Hungary its goulash (Gulyás) in Zimbabwe its simply 'beef stew'*
+> *A hearty soup. That goes well with rice. Kinda similar to a stew you'd make for [Sadza nenyama](../staples/sadza/nenyama.md) just with potatoes and carrots added to it. A dish found all around the globe going by different names, in Hungary its goulash (Gulyás) in Zimbabwe its simply 'beef stew'*
 
 **Prep time:** `10 mins` | **Cook time:** `60 mins` | **Servings:** `3`
 

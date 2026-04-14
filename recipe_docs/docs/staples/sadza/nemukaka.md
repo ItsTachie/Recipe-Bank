@@ -20,21 +20,19 @@ tags:
 
 **Main**
 
- - Sour milk (plain kefir) | 1 liter
- - Brown sugar | 1 tbsp
-
+- Sour milk (plain kefir) | 1 liter
+- Brown sugar | 1 tbsp
 
 ---
 
 ## 🍳 Instructions
 
-1. **Cook:** Make some [sadza](sadza.md) 
-2. **Prepare the milk:** In a bowl add some sour milk and the sugar and stir it well 
+1. **Cook:** Make some [sadza](sadza.md)
+2. **Prepare the milk:** In a bowl add some sour milk and the sugar and stir it well
 3. **Combine**: Add bite sized pieces of sadza to the bowl and enjoy
 
 ---
 
 ## 💡 Notes & Variations
 
-* **Storage:** 2 days in the fridge?
-
+* **Storage:** Wrap the sadza in cling wrap and store in the fridge.
