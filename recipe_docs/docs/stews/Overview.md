@@ -18,3 +18,4 @@ description: Category overview and general cooking tips.
 ### 📜 Recipes in this Category
 
 - [Butter Chicken](butter_chicken.md)
+- [Goulash](goulash.md)
