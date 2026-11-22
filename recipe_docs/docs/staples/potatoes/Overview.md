@@ -5,7 +5,7 @@ description: Category overview and general cooking tips.
 
 # 📖 Overview
 
->  The ultimate comfort carb. Very versatile and keep well. These things would survive an apocalypse
+> The ultimate comfort carb. Very versatile and keep well. These things would survive an apocalypse
 
 ---
 

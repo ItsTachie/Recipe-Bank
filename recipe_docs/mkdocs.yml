@@ -63,5 +63,10 @@ nav:
           - Overview: global/chinese/Overview.md
       - European:
           - Overview: global/european/Overview.md
+      - Tex-Mex:
+          - Overview: global/tex_mex/Overview.md
+          - Fajitas: global/tex_mex/chicken_fajitas.md
+          - Chili con Carne: global/tex_mex/chili_con_carne.md
+          - Potato Mince Bowl: global/tex_mex/potato_mince_bowl.md
 
           
