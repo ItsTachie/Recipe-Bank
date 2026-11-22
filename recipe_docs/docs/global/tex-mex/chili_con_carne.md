@@ -8,7 +8,7 @@ tags:
   - recipe
 ---
 
-# chili_con_carne
+# Chili con carne
 
 > *A rich, deeply savory Tex-Mex staple that gets even better the next day. Pairs perfectly with steamed white rice, crispy roasted potatoes, jacket potatoes, or tortilla chips for scooping.*
 

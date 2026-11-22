@@ -8,9 +8,9 @@ tags:
   - recipe
 ---
 
-# garlic_parsley_sauce
+# Garlic Parsley sauce
 
-> *A sauce that can go with anything fr?*
+> *A sauce that can go with anything fr.*
 
 **Prep time:** `... mins` | **Cook time:** `... mins` | **Servings:** `...`
 
