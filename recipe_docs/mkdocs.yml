@@ -50,6 +50,8 @@ nav:
                   - Pico de Gallo: staples/rice/modules/pico.md
                   - Creamy Coleslaw: staples/rice/modules/coleslaw.md
                   - Classic Potato Salad: staples/rice/modules/potato_salad.md
+                  - Garlic Parsley Sauce: staples/rice/modules/garlic_parsley_sauce.md
+                  
       - Potatoes:
           - Overview: staples/potatoes/Overview.md
           
@@ -64,9 +66,9 @@ nav:
       - European:
           - Overview: global/european/Overview.md
       - Tex-Mex:
-          - Overview: global/tex_mex/Overview.md
-          - Fajitas: global/tex_mex/chicken_fajitas.md
-          - Chili con Carne: global/tex_mex/chili_con_carne.md
-          - Potato Mince Bowl: global/tex_mex/potato_mince_bowl.md
+          - Overview: global/tex-mex/Overview.md
+          - Fajitas: global/tex-mex/chicken_fajitas.md
+          - Chili con Carne: global/tex-mex/chili_con_carne.md
+          - Potato Mince Bowl: global/tex-mex/potato_mince_bowl.md
 
           

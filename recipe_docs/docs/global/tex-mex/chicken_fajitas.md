@@ -8,7 +8,7 @@ tags:
   - recipe
 ---
 
-# chicken_fajitas
+# Chicken fajitas
 
 > *Fast, smoky, and built for young ho cooking—charred peppers and onions tossed with spiced chicken strips and finished with fresh lime. Pairs best with warm flour tortillas, grated cheddar, garlic-parsley white sauce, and guacamole.*
 
@@ -37,7 +37,7 @@ tags:
 ---
 ## 🍳 Instructions
 
-1. **Sauce:** Make the [sauce](staples/rice/modules/garlic_parsley_sauce.md).
+1. **Sauce:** Make the [sauce](../../staples/rice/modules/garlic_parsley_sauce.md).
 2. **Prep:** Slice the chicken, peppers, and onion into even strips so they cook at the same rate. Mix all the spices in a small bowl, then toss the chicken with 1 tbsp oil and three-quarters of the spice mix.
 3. **Cook:** Heat a large frying pan or cast-iron skillet over high heat until smoking hot. Sear the chicken in a single layer for 4–5 minutes until browned and cooked through, then transfer to a plate. Add the remaining 1 tbsp oil to the same pan, toss in the peppers, onions, and remaining spices, and cook undisturbed for 2 minutes at a time until charred at the edges but still slightly crisp (about 5–6 minutes).
 4. **Combine:** Return the chicken (and any resting juices) to the pan, squeeze over half the lime, and toss for 30 seconds to coat everything.

@@ -39,3 +39,4 @@ description: Category overview and general cooking tips.
 ### 🌟 Recommended Combos
 
 * The Zing: Turmeric Rice + Buffalo Chicken + Pico de Gallo.
+* Use the [sauce](modules/garlic_parsley_sauce.md) (goes well with everything).
