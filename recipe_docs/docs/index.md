@@ -22,6 +22,7 @@ Not sure what to cook tonight? Here are a few of my absolute favorites:
 * **[Butter Chicken](stews/butter_chicken.md)**
 * **[Creamy Tuscan Pasta](staples/pasta/creamy_tuscan_pasta.md)**
 * **[Egg Fried Rice](staples/rice/egg_fried_rice.md)**
+* **[Chili con carne](global/tex-mex/chili_con_carne.md)**
 
 ---
 
