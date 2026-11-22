@@ -18,6 +18,7 @@ tags:
 ## 🛒 Ingredients
 
 **Main**
+
 - Beef mince | 500g 
 - Onion
 - Garlic
@@ -30,10 +31,11 @@ tags:
 - Cheddar cheese
 
 **Sauce / Spices**
+
 - Ground cumin
 - Smoked paprika
 - Dried oregano
-- Salt 
+- Salt
 - Black pepper
 - Dark chocolate | 1 square
 
